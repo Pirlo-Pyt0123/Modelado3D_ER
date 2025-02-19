@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ship_Elvis",
+			"Path": "D:\\Game\\Ship_Elvis\\Source\\Ship_Elvis.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ship_ElvisEditor",
+			"Path": "D:\\Game\\Ship_Elvis\\Source\\Ship_ElvisEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

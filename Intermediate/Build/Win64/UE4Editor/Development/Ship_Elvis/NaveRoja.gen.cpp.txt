@@ -1,0 +1,7 @@
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Development\Ship_Elvis\Definitions.Ship_Elvis.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\Ship_Elvis\Source\Ship_Elvis/NaveRoja.h
+D:\Game\Ship_Elvis\Source\Ship_Elvis\Enemigo.h
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Inc\Ship_Elvis\Enemigo.generated.h
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Inc\Ship_Elvis\NaveRoja.generated.h

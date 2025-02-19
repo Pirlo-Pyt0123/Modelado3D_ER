@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\Ship_Elvis\\Source\\Ship_Elvis\\Ship_Elvis.Build.cs",
+		"D:\\Game\\Ship_Elvis\\Source\\Ship_Elvis.Target.cs",
+		"D:\\Game\\Ship_Elvis\\Source\\Ship_ElvisEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

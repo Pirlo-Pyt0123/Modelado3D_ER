@@ -1,0 +1,13 @@
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Development\Ship_Elvis\Definitions.Ship_Elvis.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\Ship_Elvis\Source\Ship_Elvis/Ship_ElvisGameMode.h
+D:\Game\Ship_Elvis\Source\Ship_Elvis\NaveAzul.h
+D:\Game\Ship_Elvis\Source\Ship_Elvis\Enemigo.h
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Inc\Ship_Elvis\Enemigo.generated.h
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Inc\Ship_Elvis\NaveAzul.generated.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Game\Ship_Elvis\Intermediate\Build\Win64\UE4Editor\Inc\Ship_Elvis\Ship_ElvisGameMode.generated.h

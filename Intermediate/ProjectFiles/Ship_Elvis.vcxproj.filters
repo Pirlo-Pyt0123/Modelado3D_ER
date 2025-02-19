@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ship_Elvis.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EA423901-CAC7-4140-B169-F7E835418122}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ship_Elvis.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Ship_ElvisEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3E799841-E741-4C62-BBD8-59738C7BF8B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ship_Elvis">
+      <UniqueIdentifier>{CB11D7A7-9EE2-471B-9A8E-90BC7D7C20C1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Ship_Elvis\Enemigo.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\Enemigo.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ship_Elvis\NaveAzul.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\NaveAzul.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ship_Elvis\NaveRoja.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\NaveRoja.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Ship_Elvis\Ship_Elvis.Build.cs">
+      <Filter>Source\Ship_Elvis</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ship_Elvis\Ship_Elvis.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\Ship_Elvis.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ship_Elvis\Ship_ElvisGameMode.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\Ship_ElvisGameMode.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ship_Elvis\Ship_ElvisPawn.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\Ship_ElvisPawn.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ship_Elvis\Ship_ElvisProjectile.cpp">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ship_Elvis\Ship_ElvisProjectile.h">
+      <Filter>Source\Ship_Elvis</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
